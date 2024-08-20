@@ -1,12 +1,12 @@
 # 👋 Olá! Eu sou Douglas Soares de Souza Ferreira
 
-🎓 **Bacharel em Ciência da Computação** pela PUC-GO, apaixonado por desenvolver soluções eficientes e escaláveis. Tenho especialização tanto em **Desenvolvimento Back-End** quanto **Front-End**, com foco em tecnologias modernas como **Java**, **Spring Boot**, **Flutter**, **React** e **Node.js**.
+🎓 **Bacharel em Ciência da Computação** pela PUC-GO, apaixonado por desenvolver soluções eficientes e escaláveis. Meus objetivos tanto em **Desenvolvimento Back-End** quanto **Front-End**, com foco em tecnologias modernas como **Java**, **Spring Boot**, **Flutter**, **React** e **Node.js**.
 
 💼 **Habilidades & Interesses:**
-- **Desenvolvimento Back-End:** Java, Spring Boot, Hibernate, APIs RESTful
+- **Desenvolvimento Back-End:** Java, Spring Boot, Hibernate, APIs RESTful e Delphi
 - **Desenvolvimento Front-End:** Flutter, React.js, HTML, CSS
 - **DevOps & Ferramentas:** Docker, Git, CI/CD, Jenkins
-- **Gerenciamento de Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Gerenciamento de Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebird
 - **Tecnologias Cloud:** AWS, Firebase
 
 🚀 **No que estou trabalhando:**
