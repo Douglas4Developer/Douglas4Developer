@@ -16,6 +16,6 @@
 🌱 **Aprendizado:** Sempre aprimorando minhas habilidades em computação em nuvem e containerização (Docker, Kubernetes).
 
 📫 **Entre em contato:**
-- [LinkedIn](https://www.linkedin.com/in/douglas-soares-de-souza-ferreira-b1219834/) | [Email](mailto:seu-email@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/douglas-soares-de-souza-ferreira/) | [Email](mailto:douglas8_ferreira@hotmail.com)
 
 ✨ **Curiosidade:** Quando não estou programando, você pode me encontrar explorando novas tendências tecnológicas ou jogando videogames, ou aprendendo novas musicas no teclado(piano).
