@@ -18,4 +18,4 @@
 📫 **Entre em contato:**
 - [LinkedIn](https://www.linkedin.com/in/douglas-soares-de-souza-ferreira-b1219834/) | [Email](mailto:seu-email@gmail.com)
 
-✨ **Curiosidade:** Quando não estou programando, você pode me encontrar explorando novas tendências tecnológicas ou jogando videogames.
+✨ **Curiosidade:** Quando não estou programando, você pode me encontrar explorando novas tendências tecnológicas ou jogando videogames, ou aprendendo novas musicas no teclado(piano).
