@@ -1,9 +1,21 @@
-![image](https://user-images.githubusercontent.com/105395813/188935112-05e9e621-9535-4bb8-9681-b31fe0528084.png)
+# 👋 Olá! Eu sou Douglas Soares de Souza Ferreira
 
-<!---
-Douglas4Developer/Douglas4Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Hi, I'm Douglas S. S. Ferreira, and i'm 23 years old. I have a degree in computer science from PUC-GO.
-#Programming Back-End and Fron-And, I'm interesting in Flutter and ambience Js(react and nodeJs), Java and outhers lenguages.
+🎓 **Bacharel em Ciência da Computação** pela PUC-GO, apaixonado por desenvolver soluções eficientes e escaláveis. Tenho especialização tanto em **Desenvolvimento Back-End** quanto **Front-End**, com foco em tecnologias modernas como **Java**, **Spring Boot**, **Flutter**, **React** e **Node.js**.
 
+💼 **Habilidades & Interesses:**
+- **Desenvolvimento Back-End:** Java, Spring Boot, Hibernate, APIs RESTful
+- **Desenvolvimento Front-End:** Flutter, React.js, HTML, CSS
+- **DevOps & Ferramentas:** Docker, Git, CI/CD, Jenkins
+- **Gerenciamento de Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Tecnologias Cloud:** AWS, Firebase
+
+🚀 **No que estou trabalhando:**
+- Desenvolvimento de aplicações full-stack usando Spring Boot no back-end e React/Flutter no front-end.
+- Explorando arquitetura de microsserviços e desenvolvimento nativo em nuvem.
+
+🌱 **Aprendizado:** Sempre aprimorando minhas habilidades em computação em nuvem e containerização (Docker, Kubernetes).
+
+📫 **Entre em contato:**
+- [LinkedIn](https://www.linkedin.com/in/douglas-soares-de-souza-ferreira-b1219834/) | [Email](mailto:seu-email@gmail.com)
+
+✨ **Curiosidade:** Quando não estou programando, você pode me encontrar explorando novas tendências tecnológicas ou jogando videogames.
