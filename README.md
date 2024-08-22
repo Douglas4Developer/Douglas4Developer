@@ -4,7 +4,7 @@
 
 💼 **Habilidades & Interesses:**
 - **Desenvolvimento Back-End:** Java, Spring Boot, Hibernate, APIs RESTful e Delphi
-- **Desenvolvimento Front-End:** Flutter, React.js, HTML, CSS
+- **Desenvolvimento Front-End:** Angular, Flutter, React.js, HTML, CSS
 - **DevOps & Ferramentas:** Docker, Git, CI/CD, Jenkins
 - **Gerenciamento de Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebird
 - **Tecnologias Cloud:** AWS, Firebase
