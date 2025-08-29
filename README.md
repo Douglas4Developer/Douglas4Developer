@@ -3,7 +3,7 @@
 🎓 **Bacharel em Ciência da Computação** pela PUC-GO, apaixonado por desenvolver soluções eficientes e escaláveis. Meus objetivos tanto em **Desenvolvimento Back-End** quanto **Front-End**, com foco em tecnologias modernas como **Java**, **Spring Boot**, **Flutter**, **React**, **Angular** e **Node.js**.
 
 💼 **Habilidades & Interesses:**
-- **Desenvolvimento Back-End:** Java, Spring Boot, Hibernate, APIs RESTful e Delphi
+- **Desenvolvimento Back-End:** Java&JavaScript(nodejs), Spring Boot, Hibernate, APIs RESTful e Delphi
 - **Desenvolvimento Front-End:** Angular, Flutter, React.js, HTML, CSS
 - **DevOps & Ferramentas:** Docker, Git, CI/CD, Jenkins
 - **Gerenciamento de Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebird
